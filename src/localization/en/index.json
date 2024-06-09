@@ -1,0 +1,14 @@
+{
+  "countries_info": "Countries Info",
+  "country_name": "Country Name",
+  "clear": "Clear",
+  "show_all_countries": "Show All Countries",
+  "code": "Code",
+  "capital": "Capital",
+  "ph_code": "Ph Code",
+  "population": "population",
+  "flag": "Flag",
+  "emblem": "Emblem",
+  "loading_text": "Loading...",
+  "error_text":"Something Went Wrong. Please try again later"
+}

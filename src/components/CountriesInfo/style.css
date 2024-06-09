@@ -1,0 +1,61 @@
+.content-wrapper{
+    padding: 40px;
+    margin: auto;
+    text-align: left;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 10px;
+}
+
+.button {
+  text-wrap: nowrap;
+  background-color: #6559f5;
+  border: none;
+  padding: 0px 8px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.search-container > * {
+  margin: 0px 5px;
+  line-height: 20px;
+  padding: 5px;
+  font-size: 1rem;
+  
+}
+.search-container input, .search-container .select-container {
+    border: 2px solid#c6ced7;
+    border-radius: 3px;
+    
+}
+.search-container a, .search-container a:visited{
+    color: #6559f5;
+}
+
+
+input::placeholder {
+    color: #c8d3dc;
+    opacity: 1; /* Firefox */
+  }
+  
+  ::-ms-input-placeholder { /* Edge 12-18 */
+    color: #c8d3dc;
+  }
+
+
+ table {
+    border-collapse: collapse;
+    width: 100%;  
+    
+  }
+
+td, th {
+    border: 2px solid#ddd;
+    padding: 8px;
+   
+  }
